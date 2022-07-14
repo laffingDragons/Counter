@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/laffingDragons/Counter/static/css/main.3632db55.css",
+    "main.js": "/laffingDragons/Counter/static/js/main.8b7cd542.js",
+    "static/js/787.e458d2a5.chunk.js": "/laffingDragons/Counter/static/js/787.e458d2a5.chunk.js",
+    "index.html": "/laffingDragons/Counter/index.html",
+    "main.3632db55.css.map": "/laffingDragons/Counter/static/css/main.3632db55.css.map",
+    "main.8b7cd542.js.map": "/laffingDragons/Counter/static/js/main.8b7cd542.js.map",
+    "787.e458d2a5.chunk.js.map": "/laffingDragons/Counter/static/js/787.e458d2a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3632db55.css",
+    "static/js/main.8b7cd542.js"
+  ]
+}
