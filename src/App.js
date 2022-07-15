@@ -33,7 +33,7 @@ c-22.4,3-38.4,9.2-47.8,18.3c-11.2,10.9-13.6,26.7-16.3,45c-3.1,20.8-6.6,44.4-25.3
           <button className='btn-add' onClick={()=>dispatch(decCountby5())}>x5</button>
           <button className='btn-add' onClick={()=>dispatch(decCount())}>-1</button>
           <div className='count'>{myState}</div> 
-          <button className='btn-add' onClick={()=>dispatch(decCount())}>-1</button>
+          <button className='btn-add' onClick={()=>dispatch(decCount())}>+1</button>
           <button className='btn-add' onClick={()=>dispatch(incCountby5())}>x5</button>
         
         </div>
